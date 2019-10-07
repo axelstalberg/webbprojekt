@@ -1,0 +1,35 @@
+/* Stilmall för Förnamn Efternamn 2 */
+html{ 
+
+    
+    }
+    body{ 
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 16px;
+        font-weight: normal;
+            
+line-height: 1,6em
+    }
+     .container { 
+        float:left;
+        width: 20%;
+        margin-left: 80px
+     }
+  
+    .containeromoss  {
+     background-color:white;   
+     color: black; 
+    
+        border-right: 5px black solid;
+        border-left: 5px black solid;
+        border-bottom: 5px black solid;
+        border-top: 5px black solid;
+        border-bottom: 5px black solid;
+        
+        padding: 15px;
+        margin-top: 20px;}
+        
+.container h1 {
+    text-align: center;
+
+}
